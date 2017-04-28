@@ -1,0 +1,5 @@
+com\beeva\app\App.class
+com\beeva\app\figures\Figura.class
+com\beeva\app\figures\Rectangulo.class
+com\beeva\app\figures\Triangulo.class
+com\beeva\app\calculadora\Calculadora.class
